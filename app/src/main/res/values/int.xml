@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_card_number_length">19</integer>
+    <integer name="exp_date_length_include_slash">5</integer>
+    <integer name="max_cvv_length">4</integer>
+</resources>
